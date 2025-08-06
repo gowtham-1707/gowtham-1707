@@ -24,7 +24,7 @@ I'm an aspiring **Data Scientist** and **AI/ML Engineer** with a strong foundati
 ### 🛠️ Tech Stack
 
 - **Languages**: Python, R, SQL, Bash  
-- **ML/DL Libraries**: Scikit-learn, PyTorch, TensorFlow, XGBoost, LightGBM  
+- **ML/DL Libraries**: Scikit-learn, PyTorch, TensorFlow, XGBoost, Randomforest 
 - **Data Tools**: Pandas, NumPy, Matplotlib, Seaborn, Plotly  
 - **Model Ops**: FastAPI  
 - **Cloud & Platforms**: Google Earth Engine, Colab, AWS (basic), Hugging Face  
